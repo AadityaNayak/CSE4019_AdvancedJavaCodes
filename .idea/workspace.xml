@@ -5,46 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c14381af-e70a-4d81-89b7-0ed439e6bd74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AreaFunctions/FigureArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AreaFunctions/ShapeArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BeansPackage/Cust1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BeansPackage/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BeansPackage/Emp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BeansPackage/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exp2/Exp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exp2/Exp2_Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exp2/Exp2_Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exp2/Exp3_Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exp2/Exp4_Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/AWTSample_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/AWTSample_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/OhmCalculatorSwing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/SwingSample_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/SwingSample_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/SwingSample_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBC_sample1/Create_Insert_Update_Delete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBC_sample1/MySQLCon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Layouts_Example/Border_Layout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Layouts_Example/Grid_Layout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/ActionListnerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/CourseRegistrationScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/JCheckBoxExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/JComboBoxExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/JRadioButtonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/JTextAreaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/JTextExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/ColorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/DialogBoxExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/JToolBarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/MenuExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/MenuExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/MenuExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/MenuExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/PopUpExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/OptionDialogExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/OptionDialogExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/SplitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/TabbedPanelExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/ToolTipExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +54,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/java_intellij_workspace/Practice&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -86,9 +62,17 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JComboBoxExample">
-    <configuration name="CourseRegistrationScreen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingPractice.CourseRegistrationScreen" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="SwingPractice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java_intellij_workspace\Practice\src\SwingPractice\Menu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TabbedPanelExample">
+    <configuration name="ColorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingPractice.ColorExample" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JCheckBoxExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingPractice.JCheckBoxExample" />
+    <configuration name="JToolBarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingPractice.JToolBarExample" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JComboBoxExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingPractice.JComboBoxExample" />
+    <configuration name="SplitExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingPractice.SplitExample" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JRadioButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingPractice.JRadioButtonExample" />
+    <configuration name="TabbedPanelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingPractice.TabbedPanelExample" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JTextAreaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingPractice.JTextAreaExample" />
+    <configuration name="ToolTipExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingPractice.ToolTipExample" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -154,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JComboBoxExample" />
-        <item itemvalue="Application.CourseRegistrationScreen" />
-        <item itemvalue="Application.JRadioButtonExample" />
-        <item itemvalue="Application.JCheckBoxExample" />
-        <item itemvalue="Application.JTextAreaExample" />
+        <item itemvalue="Application.TabbedPanelExample" />
+        <item itemvalue="Application.SplitExample" />
+        <item itemvalue="Application.ToolTipExample" />
+        <item itemvalue="Application.JToolBarExample" />
+        <item itemvalue="Application.ColorExample" />
       </list>
     </recent_temporary>
   </component>

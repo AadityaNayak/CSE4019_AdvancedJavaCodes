@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c14381af-e70a-4d81-89b7-0ed439e6bd74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/ColorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/DialogBoxExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/JToolBarExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/MenuExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/MenuExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/MenuExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/MenuExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/PopUpExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/Menu/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/OptionDialogExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/OptionDialogExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/SplitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/TabbedPanelExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/ToolTipExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/TabbedPanelExample2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,20 +56,7 @@
       <recent name="D:\java_intellij_workspace\Practice\src\SwingPractice\Menu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TabbedPanelExample">
-    <configuration name="ColorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingPractice.ColorExample" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwingPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TabbedPanelExample2">
     <configuration name="JToolBarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SwingPractice.JToolBarExample" />
       <module name="Practice" />
@@ -123,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TabbedPanelExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingPractice.TabbedPanelExample2" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SwingPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ToolTipExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SwingPractice.ToolTipExample" />
       <module name="Practice" />
@@ -138,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TabbedPanelExample2" />
         <item itemvalue="Application.TabbedPanelExample" />
         <item itemvalue="Application.SplitExample" />
         <item itemvalue="Application.ToolTipExample" />
         <item itemvalue="Application.JToolBarExample" />
-        <item itemvalue="Application.ColorExample" />
       </list>
     </recent_temporary>
   </component>

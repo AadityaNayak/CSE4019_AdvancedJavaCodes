@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c14381af-e70a-4d81-89b7-0ed439e6bd74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SwingPractice/TabbedPanelExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerProgramming/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerProgramming/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/ListExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/TableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingPractice/TreeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwingPractice/CustomDesktopPaneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwingPractice/CustomDesktopPaneExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +63,22 @@
       <recent name="D:\java_intellij_workspace\Practice\src\SwingPractice\Menu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TabbedPanelExample2">
-    <configuration name="JToolBarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingPractice.JToolBarExample" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerProgramming.Client" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ServerProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingPractice.ListExample2" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +90,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingPractice.SplitExample" />
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerProgramming.Server" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ServerProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingPractice.TableExample" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -83,34 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TabbedPanelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingPractice.TabbedPanelExample" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwingPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TabbedPanelExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingPractice.TabbedPanelExample2" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwingPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToolTipExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingPractice.ToolTipExample" />
+    <configuration name="TreeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingPractice.TreeExample" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TabbedPanelExample2" />
-        <item itemvalue="Application.TabbedPanelExample" />
-        <item itemvalue="Application.SplitExample" />
-        <item itemvalue="Application.ToolTipExample" />
-        <item itemvalue="Application.JToolBarExample" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.TreeExample" />
+        <item itemvalue="Application.TableExample" />
+        <item itemvalue="Application.ListExample2" />
       </list>
     </recent_temporary>
   </component>

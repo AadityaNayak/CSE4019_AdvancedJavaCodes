@@ -2,56 +2,70 @@ package SwingPractice;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.*;
 
-public class TabbedPanelExample2 extends JFrame {
-    TabbedPanelExample2() {
-        JLabel l1 = new JLabel("RNo");
-        JLabel l2 = new JLabel("Name");
-        JLabel l3 = new JLabel("DOB");
+public class TabbedPanelExample2 extends JFrame
+{
+    JTabbedPane t1=new JTabbedPane();
+    JPanel p1,p2,p3;
+    Container c;
+    Container c1;
+    JLabel l1,l2,l3;
+    JTextField text1,text2,text3;
+    JRadioButton r21,r22,r23;
+    JCheckBox ch1,ch2,ch3;
 
-        JTextField t1 = new JTextField();
-        JTextField t2 = new JTextField();
-        JTextField t3 = new JTextField();
+    public TabbedPanelExample2()
+    {
+        p1=new JPanel();
+        p2=new JPanel();
+        p3=new JPanel();
 
-        JPanel p1 = new JPanel();
-        p1.setLayout(new GridLayout());
+        c1=getContentPane();
+        p1.setLayout(new GridLayout(3,2));
+
+        l1=new JLabel("Name");
+        l2=new JLabel("Date of Birth (dd.mm.yyyy)");
+        l3=new JLabel("Identification Number");
+
+        text1=new JTextField(10);
+        text2=new JTextField(10);
+        text3=new JTextField(10);
 
         p1.add(l1);
+        p1.add(text1);
         p1.add(l2);
+        p1.add(text2);
         p1.add(l3);
-        p1.add(t1);
-        p1.add(t2);
-        p1.add(t3);
+        p1.add(text3);
+        c1.add(p1);
 
-        JRadioButton r1 = new JRadioButton("UG");
-        JRadioButton r2 = new JRadioButton("PG");
-        JRadioButton r3 = new JRadioButton("PHD");
-        JPanel p2 = new JPanel();
+        r21=new JRadioButton("Graduate");
+        r22=new JRadioButton("Post Graduate");
+        r23=new JRadioButton("Ph.D");
+        p2.add(r21);
+        p2.add(r22);
+        p2.add(r23);
 
-        p2.add(r1);
-        p2.add(r2);
-        p2.add(r3);
+        ch1=new JCheckBox("Computers");
+        ch2=new JCheckBox("Electronics");
+        ch3=new JCheckBox("Marketing");
+        p3.add(ch1);
+        p3.add(ch2);
+        p3.add(ch3);
 
-        JCheckBox cb1 = new JCheckBox("Java");
-        JCheckBox cb2 = new JCheckBox("PHP");
-        JCheckBox cb3 = new JCheckBox(".Net");
-        JPanel p3 = new JPanel();
-        p3.add(cb1);
-        p3.add(cb2);
-        p3.add(cb3);
+        c=getContentPane();
+        c.setLayout(new GridLayout(2,2));
 
-        JTabbedPane tp = new JTabbedPane();
-        tp.setBounds(50, 50, 400, 400);
-        tp.add("Personal info", p1);
-        tp.add("Qualification", p2);
-        tp.add("Area of interest", p3);
-
-        add(tp);
-        setSize(400, 400);
-        setVisible(true);
+        t1.addTab("Personal Information",p1);
+        t1.addTab("Educational Qualification",p2);
+        t1.addTab("Areas of Interest",p3);
+        c.add(t1);
     }
-
-    public static void main(String[] args) {
-        new TabbedPanelExample2();
+    public static void main(String args[])
+    {
+        TabbedPanelExample2 tdemo=new TabbedPanelExample2();
+        tdemo.setSize(300,350);
+        tdemo.setVisible(true);
     }
 }

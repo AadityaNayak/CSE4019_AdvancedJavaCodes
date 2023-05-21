@@ -13,9 +13,9 @@ public class OptionDialogExample2 extends JFrame implements ActionListener {
 
     OptionDialogExample2() {
 
-        l.setBounds(20, 40, 100, 50);
-        t.setBounds(100, 40, 100, 50);
-        b.setBounds(70, 120, 100, 50);
+        l.setBounds(20, 40, 100, 30);
+        t.setBounds(100, 40, 100, 30);
+        b.setBounds(70, 120, 100, 30);
 
         add(l);
         add(t);
